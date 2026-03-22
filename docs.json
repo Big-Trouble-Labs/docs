@@ -28,7 +28,7 @@
       "anchors": [
         {
           "anchor": "PitchWeave App",
-          "href": "https://app.pitchweave.app",
+          "href": "https://build.pitchweave.app",
           "icon": "presentation-screen"
         }
       ]
@@ -48,7 +48,7 @@
     "primary": {
       "type": "button",
       "label": "Open App",
-      "href": "https://app.pitchweave.app"
+      "href": "https://build.pitchweave.app"
     }
   },
   "footer": {
