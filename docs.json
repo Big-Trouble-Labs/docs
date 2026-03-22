@@ -8,6 +8,17 @@
     "dark": "#2563EB"
   },
   "favicon": "/favicon.svg",
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
+  "background": {
+    "color": { "dark": "#0A0A0A" }
+  },
+  "fonts": {
+    "body": { "family": "Inter" },
+    "heading": { "family": "Inter" }
+  },
   "navigation": {
     "tabs": [
       {
